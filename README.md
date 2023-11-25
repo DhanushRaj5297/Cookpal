@@ -1,1 +1,1 @@
-# f2-contest-using-js
+# CookPal APp
