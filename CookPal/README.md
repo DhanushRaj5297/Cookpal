@@ -1,1 +1,1 @@
-# f2-contest-using-js
+# CookPal App designgned using HTML,CSS,JS
